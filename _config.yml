@@ -17,7 +17,7 @@ baseurl                  : "/sp26-portfolio-sandy174511-zyt" # Set this to your 
 url: "https://cornell-mae-ug.github.io"
 
 # Theme and Style
-theme: jekyll-theme-minimal
+
 color_scheme: light # light/default, dark, or aqua
 
 sass:
