@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Yutian Zhang
 description              : Yutian Zhang - Projects and CV 
-baseurl                  : "/sp26-portfolio-sandy174511-zyt/" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-sandy174511-zyt" # Set this to your repo name 
+url: "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
