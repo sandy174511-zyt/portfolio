@@ -9,7 +9,7 @@ image: /assets/images/nutcrackerfbd.jpg
 ---
 
 
-As part of a class project, I designed a lever nut cracker for macadamian nuts. The nut cracker needs to have the appropriate dimensions to crack macadamian nuts open when applied the average grip load, and can fit the average macadamian nut inside it and still has an appropriate angle to grip it.
+As part of a class project, I designed a lever nutcracker for macadamian nuts. The nut cracker needs to have the appropriate dimensions to crack macadamian nuts open when applied the average grip load, and can fit the average macadamian nut inside it and still has an appropriate angle to grip it.
 
 The load needed for an average macadamian nut to be cracked open is 222.18kg, and the average human grip force is 40kg. The diameter of an avergae macadamina nut is about 2.5cm.
 
