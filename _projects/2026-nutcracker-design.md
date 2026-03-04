@@ -2,9 +2,7 @@
 layout: project
 title: Nutcracker design
 description: Class project with Graphs
-{% comment %}
 technologies: []
-{% endcomment %}
 image: /assets/images/nutcrackerfbd.jpg
 ---
 
